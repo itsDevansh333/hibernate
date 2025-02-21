@@ -1,4 +1,4 @@
 # hibernate
 <div style="display:flex; justify-content:center;">
-  <img src="https://www.educba.com/academy/wp-content/uploads/2019/11/Hibernate-Framework-amit.jpg"
+  <img src="https://drive.google.com/file/d/1TDB_CSXGMyz7PAl6uRie8qbFpNEQdqaa/view?usp=sharing"
 </div>
